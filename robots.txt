@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-y4fdn9.kujang138.shop/sitemap.xml
